@@ -1,0 +1,28 @@
+.weather-container{
+  text-align:center;
+  padding:30px;
+  background: linear-gradient(to right,#4facfe,#00f2fe);
+  min-height:100vh;
+}
+
+.weather-box{
+  background:white;
+  padding:20px;
+  border-radius:10px;
+  width:250px;
+  margin:auto;
+  box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+input{
+  padding:8px;
+  margin:10px;
+}
+
+button{
+  padding:8px 15px;
+  background:#007bff;
+  color:white;
+  border:none;
+  border-radius:5px;
+}

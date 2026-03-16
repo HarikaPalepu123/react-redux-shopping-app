@@ -1,0 +1,29 @@
+.cart-container {
+  padding: 20px;
+}
+
+.cart-items {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.cart-item {
+  display: flex;
+  gap: 15px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+.cart-details h4 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.cart-details p {
+  margin: 0;
+  color: green;
+  font-weight: bold;
+}
